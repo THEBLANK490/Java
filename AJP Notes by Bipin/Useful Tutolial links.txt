@@ -1,0 +1,20 @@
+1. JDBC Scrollable ResultSet
+https://www.onlinetutorialspoint.com/jdbc/jdbc-scrollable-resultset-example-tutorials.html
+
+2.JDBC - Result Sets
+https://www.tutorialspoint.com/jdbc/jdbc-result-sets.htm
+
+3. JDBC Updatable ResultSet 
+https://www.onlinetutorialspoint.com/jdbc/jdbc-updatable-resultset-example.html
+
+4.Introduction to Rowset by Durga Sir
+https://www.youtube.com/watch?v=XTHA_PmbGRQ
+5.Types of  Rowset by Durga Sir
+https://www.youtube.com/watch?v=p7xdv9RcYig
+6.How to create RowSet objects by Durga Sir
+https://www.youtube.com/watch?v=pLhY4vFXha4
+7. JdbcRowSet by Durga Sir
+https://www.youtube.com/watch?v=1rJpzmTSEiE
+8. CachedRowset by Durga sir
+https://youtu.be/wilYFaDQPQs
+
